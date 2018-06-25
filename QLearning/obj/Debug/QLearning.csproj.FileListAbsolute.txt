@@ -1,0 +1,9 @@
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\bin\Debug\QLearning.exe.config
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\bin\Debug\QLearning.exe
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\bin\Debug\QLearning.pdb
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\obj\Debug\QLearning.csproj.CoreCompileInputs.cache
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\obj\Debug\QLearning.exe
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\obj\Debug\QLearning.pdb
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\obj\Debug\QLearning.ResultForm.resources
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\obj\Debug\QLearning.csproj.GenerateResource.Cache
+C:\Users\kazuma\Documents\Visual Studio 2017\Projects\QLearning\QLearning\obj\Debug\QLearning.csprojAssemblyReference.cache
